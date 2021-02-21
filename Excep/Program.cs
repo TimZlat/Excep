@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Excep
 {
     // Обработка исключенией
+    // Исходный проект
     class Program
     {
         static void M1(int x, int y, int z)
